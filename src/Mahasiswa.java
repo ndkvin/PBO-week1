@@ -2,7 +2,7 @@ import java.util.Scanner; // library for input
 
 public class Mahasiswa {
 
-  String nim, nama, jenisKelamin, alamat;
+  private String nim, nama, jenisKelamin, alamat;
   
   Mahasiswa() {
     isiData();
